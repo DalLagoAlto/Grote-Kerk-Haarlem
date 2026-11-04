@@ -167,51 +167,52 @@
   },
   {
    "bestand": "20251111_111906.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
    "maten": null,
-   "status": "pending"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_111942.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
-   "maten": null,
-   "status": "pending"
+   "maten": "85m-91m (raster)",
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_111948.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
-   "maten": null,
-   "status": "pending"
+   "maten": "80, 79, 81",
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_112028.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
    "maten": null,
-   "status": "pending"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_112107.jpg",
-   "type": null,
-   "bladnr": null,
-   "titel": null,
-   "maten": null,
-   "status": "pending"
+   "type": "doorsnede",
+   "bladnr": "B/31",
+   "titel": "Kap Brouwerskapel",
+   "maten": "5.84m totaal, 3.71m kaphoogte",
+   "status": "geanalyseerd",
+   "schaal": "1:50"
   },
   {
    "bestand": "20251111_112138.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
-   "maten": null,
-   "status": "pending"
+   "maten": "11.84m, 7.47m, 2.40m, 1.50m",
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_112200.jpg",
