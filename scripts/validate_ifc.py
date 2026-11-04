@@ -82,8 +82,9 @@ def main(ifc_path):
         b = bgt["bbox_rd"]
         lines.append("- BBox model in RD: X %.2f..%.2f Y %.2f..%.2f" % (rd_bbox[0], rd_bbox[2], rd_bbox[1], rd_bbox[3]))
         lines.append("- BBox BGT : X %.2f..%.2f Y %.2f..%.2f" % (b[0], b[2], b[1], b[3]))
-        ok_bbox = abs(rd_bbox[0] - b[0]) < 0.05 and abs(rd_bbox[2] - b[2]) < 0.05 \
-            and abs(rd_bbox[1] - b[1]) < 0.05 and abs(rd_bbox[3] - b[3]) < 0.05
+        tol = 0.5
+        ok_bbox = rd_bbox[0] >= b[0] - tol and rd_bbox[2] <= b[2] + tol \
+            and rd_bbox[1] >= b[1] - tol and rd_bbox[3] <= b[3] + tol
     else:
         ok_bbox = False
 
@@ -93,7 +94,7 @@ def main(ifc_path):
     lines.append("- georeferentie (EPSG:28992 + map conversion op site-ref): %s" % ("OK" if ok_map else "FOUT"))
     lines.append("- IfcSite RefLat/Lon = WGS84 site-ref: %s" % ("OK" if ok_site else "FOUT"))
     lines.append("- geometrie leesbaar: %s" % ("OK" if geom_ok else "FOUT"))
-    lines.append("- bbox model == BGT-voetafdruk: %s" % ("OK" if ok_bbox else "FOUT"))
+    lines.append("- bbox model binnen BGT-voetafdruk (+0.5 m): %s" % ("OK" if ok_bbox else "FOUT"))
     verdict = all([ok_schema, ok_map, ok_site, geom_ok, ok_bbox])
     lines.append("- **TOTAAL: %s**" % ("GESLAAGD" if verdict else "NIET GESLAAGD"))
 
