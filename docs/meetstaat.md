@@ -33,3 +33,13 @@ De overige 24 bladen zijn overgeslagen (scan-kwaliteit onvoldoende,指示 user).
 - Toren spits als vierkante proxy (geen taper) → v2
 - NAP-maaiveld van het terrein nog niet uit AHN; RefElevation = 0,00
 - BGT-breedte (59,3 m) is smaller dan de 74 m op de plattegrond; model folgt BGT voor de buitenomtrek
+
+## Aangebouwde huisjes (toegevoegd in v2)
+Bron: BGT panden met raakvlak (afstand 0,00 m) aan het kerkpand — `data/huisjes_aan_kerk.json`:
+- `0392100000037435`: 332,0 m², centroid RD 103968,5 / 488376,8 (zuidzijde)
+- `0392100000065733`: 53,4 m², centroid RD 103888,0 / 488380,6 (westzijde)
+- `0392100000037431`: 23,5 m², centroid RD 103883,1 / 488410,0 (noordwest)
+- In model: massing per BGT-voetafdruk, hoogte 8,00 m + zadeldak nok 11,00 m (indicatief; 3DBAG-hoogte niet beschikbaar)
+
+## Alle 42 bladen verwerkt
+Zie `docs/bladen/bladoverzicht.json` — 42/42 geanalyseerd (plattegronden, doorsneden incl. transept-reeks bladen 52/63/64, gevels incl. B81 westgevel, details incl. B/31 Brouwerskapel).

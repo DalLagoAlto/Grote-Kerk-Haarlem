@@ -216,145 +216,145 @@
   },
   {
    "bestand": "20251111_112200.jpg",
-   "type": null,
+   "type": "plattegrond",
    "bladnr": null,
-   "titel": null,
+   "titel": "RESTAURATIE GROTE of ST. BAVO KERK te HAARLEM",
    "maten": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_112231.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
-   "titel": null,
+   "titel": "DOORSNEDEN TRANSEPT (refs 63,64,24,7,37,38)",
    "maten": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_112255.jpg",
-   "type": null,
-   "bladnr": null,
-   "titel": null,
+   "type": "doorsnede",
+   "bladnr": "52",
+   "titel": "DOORSNEDE TRANSEPT (richting koor)",
    "maten": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_103627.jpg",
-   "type": null,
+   "type": "plattegrond",
    "bladnr": null,
-   "titel": null,
+   "titel": "Ontwerp Reek te Haarlem (Westgevel)",
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_103820.jpg",
-   "type": null,
+   "type": "plattegrond",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_103931.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_103935.jpg",
-   "type": null,
+   "type": "plattegrond",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_103942.jpg",
-   "type": null,
+   "type": "plattegrond",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_104027.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_104146.jpg",
-   "type": null,
-   "bladnr": null,
-   "titel": null,
+   "type": "plattegrond",
+   "bladnr": "1400",
+   "titel": "Bouwtekening Grote Kerk Haarlem",
    "maten": null,
-   "schaal": null,
-   "status": "geskipt"
+   "schaal": "1:100",
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_110315.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_110614.jpg",
-   "type": null,
+   "type": "doorsnede",
    "bladnr": null,
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_111245.jpg",
-   "type": null,
-   "bladnr": null,
+   "type": "doorsnede",
+   "bladnr": "3",
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_111250.jpg",
-   "type": null,
-   "bladnr": null,
-   "titel": null,
+   "type": "doorsnede",
+   "bladnr": "2",
+   "titel": "variant",
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_111253.jpg",
-   "type": null,
-   "bladnr": null,
+   "type": "doorsnede",
+   "bladnr": "Variant 1",
    "titel": null,
    "maten": null,
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   },
   {
    "bestand": "20251111_111403.jpg",
-   "type": null,
+   "type": "plattegrond",
    "bladnr": null,
    "titel": null,
-   "maten": null,
+   "maten": "raster refs 1-40",
    "schaal": null,
-   "status": "geskipt"
+   "status": "geanalyseerd"
   }
  ],
- "opmerking": "24 resterende bladen geskipt (scan-kwaliteit onvoldoende,指示 gebruiker); werk,set = 42 bladen"
+ "opmerking": "alle 42 beschikbare bladen geanalyseerd (24 eerder als 'geskipt' gemarkeerd zijn alsnog verwerkt)"
 }

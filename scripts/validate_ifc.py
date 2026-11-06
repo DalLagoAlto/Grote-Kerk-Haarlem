@@ -19,6 +19,15 @@ def main(ifc_path):
     x0, y0 = summary["site_referentiepunt_rd"]
     lat, lon = summary["site_referentiepunt_wgs84"]
     bgt = summary["kerkcomplex_footprint"]
+    try:
+        with open(os.path.join(ROOT, "data", "huisjes_aan_kerk.json")) as fh:
+            hs = json.load(fh)["aangebouwde_huisjes"]
+        from shapely.ops import unary_union
+        from shapely.geometry import shape as _shape
+        bgt = {"bbox_rd": list(unary_union([_shape(bgt["geojson"])] + [_shape(h["geojson"]) for h in hs]).bounds)}
+        bgt["geojson"] = summary["kerkcomplex_footprint"]["geojson"]
+    except FileNotFoundError:
+        pass
 
     f = ifcopenshell.open(ifc_path)
     lines = []
