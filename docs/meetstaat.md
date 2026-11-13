@@ -52,3 +52,8 @@ Zie `docs/bladen/bladoverzicht.json` — 42/42 geanalyseerd (plattegronden, door
 ## v4 — ramen als echte openingen
 - 16 ramen (8 per zijde schip+koor) nu met `IfcRelVoidsElement` + `IfcOpeningElement`: de muren hebben echte gaten, het raamkozijn (0,30 m dik, in het midden van de 1,00 m muur) staat erin. Zichtbaar in viewers die openingen ondersteunen (BIMvision, Solibri, BIMcollab, FreeCAD).
 - Let op: in de PR kies je `ifc/Grote-Kerk-Haarlem_v4.ifc` (v3 had de ramen als losse plaatjes ín de muur, nagenoeg onzichtbaar).
+
+## v5 — openingen als echte geometrie (werkt in elke viewer)
+- Muren van schip/koor/transept zijn gesegmenteerd rond de 16 ramen en 4 deuren: de gaten zitten ín de muurgeometrie (71 muursegmenten), geen IfcRelVoidsElement nodig.
+- Belangrijk voor webviewers zoals Viewra die geen boolean-subtractie doen: v4 toonde de ramen als losse blokjes ín de muur (onzichtbaar); v5 toont ze als echte gaten + kozijn.
+- Open in de PR: `ifc/Grote-Kerk-Haarlem_v5.ifc`
