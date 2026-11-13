@@ -1,0 +1,360 @@
+{
+ "datum": "2026-11-04",
+ "totaal_beschikbaar": 42,
+ "totaal_verwacht": 66,
+ "bron": "foto's van bladen, geüpload naar repo-root (20251111_*.jpg)",
+ "bladen": [
+  {
+   "bestand": "20251111_105149.jpg",
+   "type": "onbekend",
+   "bladnr": null,
+   "titel": null,
+   "maten": "raster/nummers 1-100 zichtbaar",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110032.jpg",
+   "type": "gevel",
+   "bladnr": "B81",
+   "titel": "Schip + Westgevel (voorgevel)",
+   "maten": "737, 184, 184, 730 (cm)",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110053.jpg",
+   "type": "gevel",
+   "bladnr": null,
+   "titel": null,
+   "maten": "+29 m, +21 m, m.w.",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110058.jpg",
+   "type": "detail/doorsnede",
+   "bladnr": null,
+   "titel": "metselwerk met natuursteen hoekblokken",
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110720.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": "610, 637, 100, 115, 114, 132, 110, 116, 133, 101, 185, 195 (cm)",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110724.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110750.jpg",
+   "type": "doorsnede",
+   "bladnr": "69?",
+   "titel": null,
+   "maten": "5.34m, 6.36m, 10.01m, 11.15m, 11.75m, 19.3m, 20.65m",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110755.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110823.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": "nummers 15, 16, 17",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110829.jpg",
+   "type": "gevel (voorgevel)",
+   "bladnr": null,
+   "titel": null,
+   "maten": "84-88",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110833.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110940.jpg",
+   "type": "gevel",
+   "bladnr": null,
+   "titel": null,
+   "maten": "+10 m, +15 m",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110945.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": "+2 m, +4 m",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110949.jpg",
+   "type": "gevel (voorgevel)",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110953.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111029.jpg",
+   "type": "gevel",
+   "bladnr": null,
+   "titel": "natuursteen tracering ingevuld, met metselwerk",
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111119.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": "RESTAURATIE GROTE of ST. BAVO KERK",
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111204.jpg",
+   "type": "plattegrond",
+   "bladnr": "1",
+   "titel": "Plattegrond begane grond",
+   "maten": "+3.70m, +4.10m, +5.20m",
+   "schaal": "1:100",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111319.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": null,
+   "maten": "24.00 m, 25.00 m, 26.00 m",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111900.jpg",
+   "type": "gevel",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111906.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111942.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": "85m-91m (raster)",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111948.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": "80, 79, 81",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_112028.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_112107.jpg",
+   "type": "doorsnede",
+   "bladnr": "B/31",
+   "titel": "Kap Brouwerskapel",
+   "maten": "5.84m totaal, 3.71m kaphoogte",
+   "status": "geanalyseerd",
+   "schaal": "1:50"
+  },
+  {
+   "bestand": "20251111_112138.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": "11.84m, 7.47m, 2.40m, 1.50m",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_112200.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": "RESTAURATIE GROTE of ST. BAVO KERK te HAARLEM",
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_112231.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": "DOORSNEDEN TRANSEPT (refs 63,64,24,7,37,38)",
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_112255.jpg",
+   "type": "doorsnede",
+   "bladnr": "52",
+   "titel": "DOORSNEDE TRANSEPT (richting koor)",
+   "maten": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_103627.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": "Ontwerp Reek te Haarlem (Westgevel)",
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_103820.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_103931.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_103935.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_103942.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_104027.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_104146.jpg",
+   "type": "plattegrond",
+   "bladnr": "1400",
+   "titel": "Bouwtekening Grote Kerk Haarlem",
+   "maten": null,
+   "schaal": "1:100",
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110315.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_110614.jpg",
+   "type": "doorsnede",
+   "bladnr": null,
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111245.jpg",
+   "type": "doorsnede",
+   "bladnr": "3",
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111250.jpg",
+   "type": "doorsnede",
+   "bladnr": "2",
+   "titel": "variant",
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111253.jpg",
+   "type": "doorsnede",
+   "bladnr": "Variant 1",
+   "titel": null,
+   "maten": null,
+   "schaal": null,
+   "status": "geanalyseerd"
+  },
+  {
+   "bestand": "20251111_111403.jpg",
+   "type": "plattegrond",
+   "bladnr": null,
+   "titel": null,
+   "maten": "raster refs 1-40",
+   "schaal": null,
+   "status": "geanalyseerd"
+  }
+ ],
+ "opmerking": "alle 42 beschikbare bladen geanalyseerd (24 eerder als 'geskipt' gemarkeerd zijn alsnog verwerkt)"
+}
