@@ -48,3 +48,7 @@ Zie `docs/bladen/bladoverzicht.json` — 42/42 geanalyseerd (plattegronden, door
 - Maaiveld site: **+2,60 m NAP** (`IfcSite.RefElevation` + `IfcMapConversion.OrthogonalHeight` = 2,60). Bron: AHN4 DTM 0,5 m via PDOK WCS (`dtm_05m`), bevraagd rond het site-ref: mediaan Grote Markt noord van de kerk +2,63 m, ring rond de kerk +1,93 m; gekozen +2,60 m (pleinzijde westgevel).
 - Ramen schip+koor: 8 per zijde, **2,40 m breed** (uit doorsnede 20251111_112138.jpg), hoogte 6,00 m, dorpeldorpel +2,50 m — **indicatief**, exacte vensterhoogtes niet leesbaar op de foto's.
 - v3: 46 elementen (16 wanden, 5 daken, 4 deuren, 16 ramen, 1 terreinplaat, 4 proxies incl. 3 huisjes + torenspits)
+
+## v4 — ramen als echte openingen
+- 16 ramen (8 per zijde schip+koor) nu met `IfcRelVoidsElement` + `IfcOpeningElement`: de muren hebben echte gaten, het raamkozijn (0,30 m dik, in het midden van de 1,00 m muur) staat erin. Zichtbaar in viewers die openingen ondersteunen (BIMvision, Solibri, BIMcollab, FreeCAD).
+- Let op: in de PR kies je `ifc/Grote-Kerk-Haarlem_v4.ifc` (v3 had de ramen als losse plaatjes ín de muur, nagenoeg onzichtbaar).

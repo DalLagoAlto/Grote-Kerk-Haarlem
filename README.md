@@ -40,4 +40,5 @@ In het IFC4-bestand: `IfcProjectedCRS` (EPSG:28992, geodetisch CRS EPSG:4289) + 
 - [x] IFC4 v0 massing (BGT-voetafdruk) + v1 kruisvormige wanden/daken/vieringtoren/deuren + v2 incl. 3 aangebouwde huisjes + **v3 incl. AHN-maaiveld en ramen** (`ifc/Grote-Kerk-Haarlem_v3.ifc`), EPSG:28992 + NAP
 - [x] Validatie GESLAAGD (schema, georeferentie, bbox binnen BGT) — zie `docs/validatie.md`
 - [x] v3: NAP-maaiveld +2,60 m uit AHN4 DTM + 16 ramen (indicatief) — `ifc/Grote-Kerk-Haarlem_v3.ifc`
-- [ ] v4: binnenwanden, trappen, gewelven, exacte venstermaten uit betere scans
+- [x] v4: ramen als echte muur-openingen (IfcRelVoidsElement) — `ifc/Grote-Kerk-Haarlem_v4.ifc`
+- [ ] v5: binnenwanden, trappen, gewelven, exacte venstermaten uit betere scans
